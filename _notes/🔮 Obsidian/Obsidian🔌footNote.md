@@ -1,0 +1,1 @@
+This is footnote^[[[Resources/Templater/Untitled 1|first_name]]]
